@@ -1,4 +1,4 @@
-# ☕ Projeto Great Coffee
+# ☕ Projeto RocketCoffee
 
 Este é o projeto RocketCoffee da [Rocketseat](https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google) originado dos Desafios Discover.
 
