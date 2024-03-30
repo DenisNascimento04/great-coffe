@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/great-coffee/static/css/main.557cc1e3.css",
-    "main.js": "/great-coffee/static/js/main.a50751f4.js",
+    "main.js": "/great-coffee/static/js/main.bc3b91a6.js",
     "static/media/Cups.png": "/great-coffee/static/media/Cups.0b57f46f4e7aadef1f43.png",
     "static/media/c1.png": "/great-coffee/static/media/c1.33c601e88fd8ba26c36b.png",
     "static/media/c2.png": "/great-coffee/static/media/c2.f251cac1b4091ce589f6.png",
     "index.html": "/great-coffee/index.html",
     "main.557cc1e3.css.map": "/great-coffee/static/css/main.557cc1e3.css.map",
-    "main.a50751f4.js.map": "/great-coffee/static/js/main.a50751f4.js.map"
+    "main.bc3b91a6.js.map": "/great-coffee/static/js/main.bc3b91a6.js.map"
   },
   "entrypoints": [
     "static/css/main.557cc1e3.css",
-    "static/js/main.a50751f4.js"
+    "static/js/main.bc3b91a6.js"
   ]
 }
