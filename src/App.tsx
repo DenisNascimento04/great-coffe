@@ -40,18 +40,20 @@ function App() {
         </button>
       </Header>
 
-      <div className='mobile'>
-        <p>
-          O café que fará seu código decolar para 
-          o próximo nível.
-        </p>
-        <button>
-          PEGAR MEU CAFÉ
-        </button>
-      </div>
       <DivTitulos>
-        <h1>Great Coffe</h1>
-        <h2>{"<Great Code/>"}</h2>
+        <div className='mobile'>
+          <p>
+            O café que fará seu código decolar para 
+            o próximo nível.
+          </p>
+          <button>
+            PEGAR MEU CAFÉ
+          </button>
+        </div>
+        <div className='outdoor'>
+          <h1>Great Coffe</h1>
+          <h2>{"<Great Code/>"}</h2>
+        </div>
         <Imagens>
           <div>
             <img className='grao1' src={C2} alt='img-grao1' />

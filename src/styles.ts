@@ -15,7 +15,7 @@ export const Container = styled.div `
     display: none;
   }
   @media screen and (max-width: 425px){
-    .mobile{
+    /* .mobile{
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -37,7 +37,7 @@ export const Container = styled.div `
         margin-bottom: 2rem;
         cursor: pointer;
       }
-    }
+    } */
   }
 `
 
@@ -194,7 +194,6 @@ export const DivTitulos = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  /* background-color: red; */
   height: 100%;
   width: 100%;
   padding-top: 2rem;
@@ -229,6 +228,12 @@ export const DivTitulos = styled.div`
     /* border: 2px solid #8257E5; */
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   }
+  .outdoor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4rem;
+  }
   .mobile{
     display: none;
   }
@@ -240,12 +245,40 @@ export const DivTitulos = styled.div`
   }
   @media screen and (max-width: 425px){
     padding-top: 1rem;
-    gap: 1rem;
+    /* gap: 1rem; */
     h1, h2{
       font-size: 3rem;
     }
     h1{
       margin-bottom: 4rem;
+    }
+    .outdoor{
+      gap: 1rem;
+    }
+    .mobile{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      /* gap: 2rem; */
+      height: 100%;
+      p{
+        color: #f2f2f2;
+        font-size: 2rem;
+        max-width: 60%;
+        text-align: center;
+      }
+      button{
+        background-color: #000000;
+        border-color: #8257E5;
+        border-width: 1px;
+        border-radius: 6px;
+        padding: 12px 40px;
+        color: #FFFFFF;
+        font-size: 1.2rem;
+        margin-bottom: 2rem;
+        cursor: pointer;
+      }
     }
   }
 `
