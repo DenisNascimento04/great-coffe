@@ -1,46 +1,30 @@
-# Getting Started with Create React App
+# ☕ Projeto Great Coffee
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é o projeto RocketCoffee da [Rocketseat](https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google) originado dos Desafios Discover.
 
-## Available Scripts
+## 🚀 Começando
 
-In the project directory, you can run:
+O objetivo era trazer o front-end de um site de acordo com o que foi proposto no desafio trazendo modernidade e resposividade uma vez que o design desktop e mobile são ligeiramnete diferentes e trazem novos elementos.
 
-### `npm start`
+## 🛠️ Ferramentas utilizadas
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## ⭐ [Deploy](https://denisnascimento04.github.io/jogo-pedra-papel-tesoura/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![Firebase](https://firebasestorage.googleapis.com/v0/b/banco-de-imagens-9d0af.appspot.com/o/great-coffee%2FCapturar1.JPG?alt=media&token=efffebed-ebe0-4f4c-903d-1fc5481a804a)
 
-### `npm test`
+## 💻 Media Queries
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Dispositivos testados 📱
 
-### `npm run build`
+✧ Desktop: Laptop (1920 x 1080) <br />
+✧ Desktop: Laptop (1440 x 900) <br />
+✧ Mobile: Galaxy Note 3 (360 x 640)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<div align="center">
+  
+![Firebase](https://firebasestorage.googleapis.com/v0/b/banco-de-imagens-9d0af.appspot.com/o/great-coffee%2FiMac%20Pro%20Front%20View%20Mockup.png?alt=media&token=752bd672-f1f7-4d6c-b4e2-a52f0e63e315)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Firebase](https://firebasestorage.googleapis.com/v0/b/banco-de-imagens-9d0af.appspot.com/o/great-coffee%2FiPhone%2012%20Mockup%20Front%20View.png?alt=media&token=ad0c3139-002b-4450-941b-c08dff7d0c5f)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+</div>
