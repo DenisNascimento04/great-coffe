@@ -25,6 +25,6 @@ Dispositivos testados 📱
   
 ![Firebase](https://firebasestorage.googleapis.com/v0/b/banco-de-imagens-9d0af.appspot.com/o/great-coffee%2FiMac%20Pro%20Front%20View%20Mockup.png?alt=media&token=752bd672-f1f7-4d6c-b4e2-a52f0e63e315)
 
-![Firebase](https://firebasestorage.googleapis.com/v0/b/banco-de-imagens-9d0af.appspot.com/o/great-coffee%2FiPhone%2012%20Mockup%20Front%20View.png?alt=media&token=ad0c3139-002b-4450-941b-c08dff7d0c5f)
+![Firebase](https://firebasestorage.googleapis.com/v0/b/banco-de-imagens-9d0af.appspot.com/o/great-coffee%2FiPhone%2012%20Mockup%20Front%20View.png?alt=media&token=8053f666-6219-4961-bac8-61677065f9a3)
 
 </div>
